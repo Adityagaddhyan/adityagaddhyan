@@ -33,3 +33,6 @@ Something about me:
 ## currently working on:
 - SFC Advisor, Kolkata to build a login functionality, implement several other financial calculators, create real time database of some segment of stock market,enable user build portfoli and set stop loss and triggers.
 - Building front end for a solar app on react native.
+
+## Linkedin: www.linkedin.com/in/adityagaddhyan/
+## resume: https://drive.google.com/file/d/1dJOMTRHHKdhDrSW5ZKcAY79M20q2pWE-/view?usp=sharing&usp=embed_facebook
