@@ -1,37 +1,39 @@
-### Hi there 👋
+# 👋 Hi, I'm Aditya Gaddhyan
 
+Backend Engineer | Open-Source Contributor | Product-Minded Builder  
 
-Something about me:
+I design and build scalable backend systems, distributed architectures, and developer tools — mostly in **Go, Java, and TypeScript**.  
+Currently working at **Allen Digital**, building event-driven microservices and real-time platforms that handle millions of requests a day.
 
-- 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning react and deep learning.
-- 👯 I’m looking to collaborate on full stack developement projects (preferabley on JS, node, C/C++).
-- 🤔 I’m looking for help with finding a job.
-- 💬 Ask me about full stack web development.
-- 📫 How to reach me: adityagaddhyan@gmail.com or call me on (+91)9163228382.
-- 😄 Pronouns: He/Him/Engineer.
-- ⚡ Fun fact: I sleep in day.
+---
 
-# Tools and tech I have learned:
-- Javascript
-- Node.js
-- C/C++
-- express
-- MySQL, PostgreSQL, Oracle Database 10G
-- MongoDB
-- Redis
-- Docker
-- Git
-- DevOps
-- AWS
+### ⚙️ What I Work With
+- **Languages:** Go, Java, TypeScript, JavaScript  
+- **Frameworks:** Kratos, Dropwizard, NestJS, Express  
+- **Infra & Data:** AWS, MySQL, Redis, ScyllaDB, RabbitMQ, Aerospike, Prometheus  
+- **DevOps & Tools:** Docker, GitLab CI/CD, OpenTelemetry, Dagger.io  
 
-# Some of my freelance projets:
-- For **SFC Advisor, Kolkata**, I turned there static website which was built on php and deployed on cpanel to a robust and dynamic web app whch had multiple database of FNO and Equity segment of NSE (a stock exchange) and not only display the data, but also to give the traders a weapon to asses them using different tools like hv, iv, static payoffs, dynamic payoffs, probability, option greek etc. To have a look visit www.sfcadvisor.com/.
-- For **checked**, a Singapore based startup which is an app to manage and mantain the business including lot of workers. The app helps companies keep an eye on there workers and checked weather or not they are working efficiently by tracking there location, smart attendance system of blue collar employees, payroll, attendance, leave an much more. **The APIs of 3 section- leave, attendance and payroll was designed by me.** visit: https://www.linkedin.com/company/checked-solutions/about/
-- Designed **blog on wordpress**. visit https://blog.sfcadvisor.com
+---
 
-## currently working on:
-- SFC Advisor, Kolkata to build a login functionality, implement several other financial calculators, create real time database of some segment of stock market,enable user build portfoli and set stop loss and triggers.
-- Building front end for a solar app on react native.
+### 🚀 What I’m Exploring
+- Building **AI-powered developer tools**  
+- Experimenting with **LLMs, observability, and distributed queues**  
+- Contributing to **open-source Go/TypeScript projects**
 
-## Linkedin: www.linkedin.com/in/adityagaddhyan/
+---
+
+### 🌍 Featured Work
+- **SilverGrid** → Interactive CSV/Parquet data explorer  
+- **Continuum** → Distributed ID generation engine  
+- **Summit.ai** → Dropwizard-based productivity backend  
+- **River** (reading list) → Go/Postgres job queue library  
+
+---
+
+### 💬 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/adityagaddhyan](https://linkedin.com/in/adityagaddhyan)  
+- **Email:** adityagaddhyan@gmail.com  
+
+---
+
+> 🧭 “Building systems that scale — and tools that make developers faster.”
