@@ -5,6 +5,10 @@ Backend Engineer | Open-Source Contributor | Product-Minded Builder
 I design and build scalable backend systems, distributed architectures, and developer tools — mostly in **Go, Java, and TypeScript**.  
 Currently working at **Allen Digital**, building event-driven microservices and real-time platforms that handle millions of requests a day.
 
+<a href="https://github.com/sponsors/Adityagaddhyan"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Aditya on GitHub Sponsors" height="30" /></a>
+&nbsp;
+<a href="https://buymeacoffee.com/adityagaddhyan"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" height="30" /></a>
+
 ---
 
 ### ⚙️ What I Work With
@@ -23,10 +27,18 @@ Currently working at **Allen Digital**, building event-driven microservices and 
 ---
 
 ### 🌍 Featured Work
+- **[ViewDeck](https://github.com/Adityagaddhyan/viewdeck)** → Free, open-source, keyboard-first database GUI for PostgreSQL, Amazon RDS & Aurora (AWS SSO, IAM auth, SSM tunnels built in)  
 - **SilverGrid** → Interactive CSV/Parquet data explorer  
 - **Continuum** → Distributed ID generation engine  
 - **Summit.ai** → Dropwizard-based productivity backend  
 - **River** (reading list) → Go/Postgres job queue library  
+
+---
+
+### ☕ Support My Open Source
+Everything I publish is free. If one of my projects saves you time, you can
+[sponsor me on GitHub](https://github.com/sponsors/Adityagaddhyan) or
+[buy me a coffee](https://buymeacoffee.com/adityagaddhyan). It keeps the projects maintained.
 
 ---
 
